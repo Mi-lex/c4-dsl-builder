@@ -18,13 +18,7 @@
 
 	// Use 'postCreateCommand' to run commands after the container is created.
 	"postCreateCommand": "java -version",
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"systemticks.c4-dsl-extension"
-			]
-		}
-	},
+  "extensions": ["systemticks.c4-dsl-extension"]
 
 	// Configure tool-specific properties.
 	// "customizations": {},
