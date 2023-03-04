@@ -1,0 +1,1 @@
+structurizr-cli export -workspace workspace.dsl -format plantuml -output diagrams
