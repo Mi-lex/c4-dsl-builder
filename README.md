@@ -1,6 +1,6 @@
 # C4 dsl Builder
 
-Local c4 scheme development that utilizes [Structurizr.](https://structurizr.com/).
+Local c4 scheme development that utilizes [Structurizr](https://structurizr.com/).
 You should be able to develop using only docker and vscode
 
 ## Requirements
