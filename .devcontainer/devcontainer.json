@@ -20,6 +20,10 @@
 	"postCreateCommand": "java -version",
 	"customizations": {
 		"vscode": {
+      "settings": {
+				"extensions.verifySignature": false,
+        "c4.diagram.plantuml.enabled": true
+			},
 			"extensions": [
 				"systemticks.c4-dsl-extension",
 				"ciarant.vscode-structurizr",
